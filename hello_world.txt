@@ -1,0 +1,2 @@
+Hello,
+I'm alyssa, an aspiring ruby on rails developer. 
